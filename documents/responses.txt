@@ -13,3 +13,5 @@ Blo -> Blu
 Blu -> Bli
 Bla -> Blub
 Hallo -> Hi
+Hi -> Wal
+
